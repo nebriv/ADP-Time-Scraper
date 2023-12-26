@@ -1,6 +1,10 @@
 # ADP-Time-Scraper
 
-Probably only works on ADP V3?
+Requests time off data from ADP via their frontend API. Downloads the vacation and sick time data to a json file. Probably only works on ADP V3?
+
+Example output
+
+<img width="708" alt="image" src="https://github.com/nebriv/ADP-Time-Scraper/assets/1825214/82a4a7e3-3417-4dab-b372-334bf81bc5ea">
 
 ## Setup and Configuration
 
